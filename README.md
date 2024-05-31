@@ -4,6 +4,10 @@ This is my group project assignment 2 of COMP4332 Big Data Mining and Management
 
 This project invloves using the DeepWalk algorithm and Node2Vec algorithm to predict the links.
 
+The research paper on DeepWalk: https://arxiv.org/pdf/1403.6652
+
+The reserach paper on Node2Vec: https://arxiv.org/pdf/1607.00653
+
 You should see the following things in this repository:
 
 * COMP4332 Project 2 source code.ipynb: the Jupyter Notebook
@@ -13,6 +17,8 @@ You should see the following things in this repository:
 * Project2_Social_Network_Mining_Spring2024.pdf: the description of this project
 * data: the folder that contains the training dataset, the validation dataset and the testing dataset
 * submission: the submission for this project
+* DeepWalk.pdf: the research paper on DeepWalk
+* Node2Vec.pdf: the reserach paper on Node2Vec
 
 ---
 
